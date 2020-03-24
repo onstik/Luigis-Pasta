@@ -1,0 +1,85 @@
+################## Hero area ##################
+heroArea:
+  enable : true
+  bgImage : "images/header.jpg"
+  overlay : true
+
+################### Gallery ###################
+gallery:
+  enable : true
+  title : "Italienische Spezialitäten"
+  sliderItem:
+    - image : "images/slider/slider-img-1.jpg"
+    - image : "images/slider/slider-img-2.jpg"
+    - image : "images/slider/slider-img-3.jpg"
+    - image : "images/slider/slider-img-4.jpg"
+    - image : "images/slider/slider-img-5.jpg"
+    - image : "images/slider/slider-img-6.jpg"
+    - image : "images/slider/slider-img-7.jpg"
+    - image : "images/slider/slider-img-8.jpg"
+
+################ About #######################
+about:
+  enable : true
+  image : "images/cooker-img.png"
+  title : "Handgemachte, Italienische Feinkost aus Heidelberg"
+  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam"
+  
+################# Blog ######################
+blog:
+  enable : true
+  title : "Unsere <span>Neuigkeiten</span>"
+  bgImage : "images/blog/blog-bg.jpg"
+  overlay : true
+
+
+################# food Menu ################
+pricing:
+  enable : true
+  title : "Unsere <span>Preise</span>"
+  description: "Auszug aus unserer Karte. Natürlich bedienen wir auch ihre Sonderwünsche"
+  subtitle : "test"
+  
+  pricingItem:
+  - title: "Unsere Pizza-Spezialitäten"
+  - title: "Pizza Margharita"
+    description: "Wählbar zwischen Groß, Mittel, Klein"
+    price : "7,80€ | 6,00€ | 4,80€"
+  - title: "Pizza Salami"
+    description: "Wählbar zwischen Groß, Mittel, Klein"
+    price : "8,20€ | 6,40€ | 5,20€"
+  - title: "Pizza quattro formaggi"
+    description: "Wählbar zwischen Groß, Mittel, Klein"
+    price : "8,80€ | 7,40€ | 6,00€"
+
+
+  - title: "Unsere Pasta-Spezialitäten"
+  - title: "Rigatoni mit Tomatensoße"
+    description: "Wählbar zwischen Groß, Mittel, Klein"
+    price : "7,00€ | 5,50€ | 4,50€"
+  - title: "Spaghetti Pesto"
+    description: "Wählbar zwischen Groß, Mittel, Klein"
+    price : "6,70€ | 5,80€ | 4,90€"
+  - title: "Rigatoni mit Bolognesesoße"
+    description: "Wählbar zwischen Groß, Mittel, Klein"
+    price : "7,60€ | 6,50€ | 5,40€"
+
+
+
+################### Subscription ################
+subscription:
+  enable : false
+  bgImage : "images/subscribe-bg.jpg"
+  title : "SUBSCRIBE to our <span>NEWSLETTER</span>"
+  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  #Mailchimp subscription configaration 
+  formAction : "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
+  formName : "b_f95ece2732a6e9925f2e70a61_b1e227529e"
+  overlay : true
+
+################ Contact #######################
+contact:
+  enable : true
+  title: "<span> Kontaktieren Sie uns! </span>"
+  subtitle: "Melden sie sich an um kontaktiert zu werden"
+  formAction : "#" #contact form works with formspree.io

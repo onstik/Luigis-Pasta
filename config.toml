@@ -1,0 +1,141 @@
+baseURL = "https://insok.github.io/Luigis-Pasta/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "Restaurant Hugo"
+publishDir = "docs"
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+URL = "css/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "css/slick.css"
+[[params.plugins.css]]
+URL = "css/font-awesome.min.css"
+[[params.plugins.css]]
+URL = "css/animate.min.css"
+[[params.plugins.css]]
+URL = "css/venobox.css"
+[[params.plugins.css]]
+URL = "css/main.css"
+[[params.plugins.css]]
+URL = "css/responsive.css"
+
+# JS Plugins
+[[params.plugins.js]]
+URL = "js/jquery.min.js"
+[[params.plugins.js]]
+URL = "js/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "js/slick.min.js"
+[[params.plugins.js]]
+URL = "js/wow.min.js"
+[[params.plugins.js]]
+URL = "js/venobox.min.js"
+[[params.plugins.js]]
+URL = "js/main.js"
+
+############################## navigation ###############################
+
+[[menu.main]]
+name = "Home"
+URL = "home"
+weight = 1
+
+[[menu.main]]
+name = "Über uns"
+URL = "about-us"
+weight = 2
+
+[[menu.main]]
+name = "Neuigkeiten"
+URL = "blog"
+weight = 3
+
+[[menu.main]]
+name = "Preise"
+URL = "price"
+weight = 4
+
+[[menu.main]]
+name = "Kontakt"
+URL = "contact-us"
+weight = 6
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+# meta data
+author = "Konstantin Benz"
+description = "Referenzprojekt"
+# google analitycs ID
+google_analitycs_id = "Your ID"
+# copyright
+copyright = "Copyright 2020 - All Rights Reserved. Design and Developed By Themefisher.com, Konstantin Benz"
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use .png , .svg or .gif format
+
+################################### Footer ############################
+[params.footer]
+enable = true
+contactInfoTitle = "Kontakt <span>INFO</span> "
+blogTitle = "Neuste <span>Infos</span>"
+galleryTitle = "Foto <span>Galerie</span>"
+socialTitle = "Folge <span>Uns</span>"
+
+############################ footer contact item
+[[params.footer.contactItem]]
+title="Telefon"
+icon = "fa fa-phone"
+content = "016742 323313"
+
+[[params.footer.contactItem]]
+title="Addresse"
+icon = "fa fa-map-marker"
+content = "Heidelberg"
+
+[[params.footer.contactItem]]
+title="E mail"
+icon = "fa fa-envelope"
+content = "rest@gmail.com - rest@mail.ru"
+
+######################### footer gallery
+[[params.footer.gallery]]
+image = "images/slider/slider-img-1.jpg"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-2.jpg"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-3.jpg"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-4.jpg"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-5.jpg"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-6.jpg"
+
+######################## Social Icon 
+[[params.footer.socialLink]]
+icon = "facebook"
+link = "https://fb.com/themefisher"
+
+[[params.footer.socialLink]]
+icon = "twitter"
+link = "https://fb.com/themefisher"
+
+[[params.footer.socialLink]]
+icon = "dribbble"
+link = "https://fb.com/themefisher"
+
+[[params.footer.socialLink]]
+icon = "instagram"
+link = "https://fb.com/themefisher"
