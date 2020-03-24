@@ -6,10 +6,19 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Dec 2019 04:28:21 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2020 11:40:41 +0600</lastBuildDate>
     
 	<atom:link href="https://insok.github.io/Luigis-Pasta/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Neuer Holzofen</title>
+      <link>https://insok.github.io/Luigis-Pasta/holzofen/</link>
+      <pubDate>Thu, 23 Jan 2020 11:40:41 +0600</pubDate>
+      
+      <guid>https://insok.github.io/Luigis-Pasta/holzofen/</guid>
+      <description>Aufgrund des erfolgreichen Jahres 2019 konnten wir in einen weiteren Holzofen investieren. Das heisst wir können ihnen nun mehr, leckerere Pizzen Servieren!</description>
+    </item>
     
     <item>
       <title>Renovierung abgeschlossen</title>
@@ -18,15 +27,6 @@
       
       <guid>https://insok.github.io/Luigis-Pasta/renovierung/</guid>
       <description>Wir freuen uns, sie in unseren neuen Räumlichkeiten begrüssen zu dürfen. Wir bieten unseren Gästen jetzt 34 Tischplätze.</description>
-    </item>
-    
-    <item>
-      <title>Neuer Holzofen</title>
-      <link>https://insok.github.io/Luigis-Pasta/holzofen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://insok.github.io/Luigis-Pasta/holzofen/</guid>
-      <description>Aufgrund des erfolgreichen Jahres 2019 konnten wir in einen weiteren Holzofen investieren. Das heisst wir können ihnen nun mehr, leckerere Pizzen Servieren!</description>
     </item>
     
   </channel>
