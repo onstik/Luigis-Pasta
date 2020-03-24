@@ -1,6 +1,6 @@
 baseURL = "https://insok.github.io/Luigis-Pasta/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Restaurant Luigis Pasta"
 theme = "Restaurant Hugo"
 publishDir = "docs"
 
