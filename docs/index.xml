@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Restaurant Luigis Pasta</title>
-    <link>https://insok.github.io/Luigis-Pasta/</link>
+    <link>https://onstik.github.io/Luigis-Pasta/</link>
     <description>Recent content on Restaurant Luigis Pasta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jan 2020 11:40:41 +0600</lastBuildDate>
     
-	<atom:link href="https://insok.github.io/Luigis-Pasta/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://onstik.github.io/Luigis-Pasta/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Neuer Holzofen</title>
-      <link>https://insok.github.io/Luigis-Pasta/holzofen/</link>
+      <link>https://onstik.github.io/Luigis-Pasta/holzofen/</link>
       <pubDate>Thu, 23 Jan 2020 11:40:41 +0600</pubDate>
       
-      <guid>https://insok.github.io/Luigis-Pasta/holzofen/</guid>
+      <guid>https://onstik.github.io/Luigis-Pasta/holzofen/</guid>
       <description>Aufgrund des erfolgreichen Jahres 2019 konnten wir in einen weiteren Holzofen investieren. Das heisst wir können ihnen nun mehr, leckerere Pizzen Servieren!</description>
     </item>
     
     <item>
       <title>Renovierung abgeschlossen</title>
-      <link>https://insok.github.io/Luigis-Pasta/renovierung/</link>
+      <link>https://onstik.github.io/Luigis-Pasta/renovierung/</link>
       <pubDate>Thu, 12 Dec 2019 04:28:21 +0600</pubDate>
       
-      <guid>https://insok.github.io/Luigis-Pasta/renovierung/</guid>
+      <guid>https://onstik.github.io/Luigis-Pasta/renovierung/</guid>
       <description>Wir freuen uns, sie in unseren neuen Räumlichkeiten begrüssen zu dürfen. Wir bieten unseren Gästen jetzt 34 Tischplätze.</description>
     </item>
     

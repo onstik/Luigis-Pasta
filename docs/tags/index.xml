@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Restaurant Luigis Pasta</title>
-    <link>https://insok.github.io/Luigis-Pasta/tags/</link>
+    <link>https://onstik.github.io/Luigis-Pasta/tags/</link>
     <description>Recent content in Tags on Restaurant Luigis Pasta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://insok.github.io/Luigis-Pasta/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://onstik.github.io/Luigis-Pasta/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
